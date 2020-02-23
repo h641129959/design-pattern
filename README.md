@@ -2,7 +2,7 @@
 设计模式学习笔记
 
 #汇总
-![设计模式](designpatternDoc/设计模式.png "设计模式")
+![设计模式](design-pattern-doc/设计模式.png "设计模式")
 
 
 # 简单工厂模式
